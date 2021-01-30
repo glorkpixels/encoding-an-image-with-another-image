@@ -1,3 +1,3 @@
-# H1 Encoding an image with another image
+#  Encoding an image with another image
 
-# H2 Image Processing project
+## Image Processing project
